@@ -8,7 +8,7 @@ public class App {
     public String getGreeting() {
         return "Hello World!";
     }
-
+   
     public void testeMedia(){
         int nota1, nota2, nota3;
         nota1 = 8;
